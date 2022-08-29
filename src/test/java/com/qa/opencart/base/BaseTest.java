@@ -1,4 +1,4 @@
-package com.qa.opencart.base;
+package com.qa.undostres.base;
 
 import java.util.Properties;
 
