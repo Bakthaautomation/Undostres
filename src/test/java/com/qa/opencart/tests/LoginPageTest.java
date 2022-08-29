@@ -1,9 +1,9 @@
-package com.qa.opencart.tests;
+package com.qa.undostres.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.qa.opencart.base.BaseTest;
+import com.qa.undostres.base.BaseTest;
 import com.qa.undostres.constants.AppConstants;
 
 import io.qameta.allure.Description;
